@@ -1,1 +1,1 @@
-# basal_ganglia_web
+# The murine basal ganglia web solution
